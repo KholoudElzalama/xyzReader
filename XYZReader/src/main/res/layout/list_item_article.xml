@@ -50,7 +50,7 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="16dp"
-            android:textColor="@color/theme_accent"
+            android:textColor="@color/theme_primary_light"
             android:maxLines="2"
             android:ellipsize="end" />
     </LinearLayout>
